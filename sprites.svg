@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SpritesSVG</title>
-</head>
-<body>
+
   <svg style="display: none;" xmlns="//www.w3.org/2000/svg">
     <!-- УШИ ------------------------------------------------------------------>
 
@@ -59,5 +51,3 @@
       <ellipse rx="7" ry="5" cx="62" cy="76" fill="#000000" />
     </symbol>
   </svg>
-</body>
-</html>
