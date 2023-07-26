@@ -1,5 +1,5 @@
 
-  <svg style="display: none;">   
+  <svg style="display: none;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">   
     <symbol id="ears" width="126" height="51" viewbox="0 0 126 51">
       <g fill="#636363">
         <ellipse transform="rotate(43)" rx="14" ry="20" cx="32" cy="1" />
